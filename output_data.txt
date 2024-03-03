@@ -1,0 +1,29 @@
+
+Processing Target 1:
+Initial Position: [10. 15.]
+Predicted Position: [10. 15.]
+Measurement 1: [7.38564438 7.46339448]
+Association Probability: 0.81
+Updated Position: [7.98301929 9.18549341]
+Measurement 2: [ 6.01940416 10.72645205]
+Association Probability: 0.09000000000000001
+Updated Position: [7.81469337 9.31758811]
+Measurement 3: [7.66849953 4.51709143]
+Association Probability: 0.81
+Updated Position: [7.70190435 5.61399465]
+Final Updated Position: [7.70190435 5.61399465]
+
+Processing Target 2:
+Initial Position: [20. 25.]
+Predicted Position: [20. 25.]
+Measurement 1: [7.38564438 7.46339448]
+Association Probability: 0.08999999999999998
+Updated Position: [18.91861504 23.49664762]
+Measurement 2: [ 6.01940416 10.72645205]
+Association Probability: 0.009999999999999998
+Updated Position: [18.79574785 23.37500933]
+Measurement 3: [7.66849953 4.51709143]
+Association Probability: 0.08999999999999998
+Updated Position: [17.84184743 21.7583854 ]
+Final Updated Position: [17.84184743 21.7583854 ]
+
